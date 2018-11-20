@@ -1,0 +1,14 @@
+=========================
+|	Endpoint	|
+|Receive data blobs from|
+|vendor products.	|
+|Send them to the 	|
+|appropriate processor.	|
+=========================
+
+=========================
+|	JSON Proc	|
+|Receive JSON data blobs|
+|from the Endpoint.	|
+|Process them.		|
+=========================
